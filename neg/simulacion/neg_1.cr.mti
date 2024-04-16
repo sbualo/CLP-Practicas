@@ -1,0 +1,17 @@
+//Mac/Home/Documents/CLP/Practicas/neg/simulacion/neg.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/neg/simulacion/neg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity neg
+-- Compiling architecture neg_arq of neg
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/neg/simulacion/neg_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/neg/simulacion/neg_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity neg_tb
+-- Compiling architecture neg_tb_arq of neg_tb
+
+} {} {}}

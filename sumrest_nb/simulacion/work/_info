@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/sum_Nb/simulacion
+Esum_1b
+Z0 w1712086845
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion
+Z4 8//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+Z5 F//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+l0
+L4
+VT>ClO`KeRo2n9l3>mmjzT0
+!s100 cV0KmiBCLS6<m5R7<6R:82
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1712101052
+!i10b 1
+Z8 !s108 1712101052.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+Z10 !s107 //Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum_1b_arq
+R1
+R2
+Z13 DEx4 work 6 sum_1b 0 22 T>ClO`KeRo2n9l3>mmjzT0
+l16
+L14
+Z14 VLZ9Gg=6EQRBS;HM69:2on2
+Z15 !s100 T`BM>HZ:Q^IDF`A>9Dl3L3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumrest_nb
+Z16 w1712100916
+R1
+R2
+R3
+Z17 8//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb.vhd
+Z18 F//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb.vhd
+l0
+L4
+V:0@JYK7kBF1VhO8jDAN541
+!s100 D4Bik:`nl7iZM>:b6;zTc2
+R6
+32
+Z19 !s110 1712101051
+!i10b 1
+Z20 !s108 1712101051.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb.vhd|
+Z22 !s107 //Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb.vhd|
+!i113 1
+R11
+R12
+Asumrest_nb_arq
+R1
+R2
+DEx4 work 10 sumrest_nb 0 22 :0@JYK7kBF1VhO8jDAN541
+l40
+L16
+VARo5246>h7[GZR?j@oR4K0
+!s100 @V?VnX5mCIHEMn2kjHJSl3
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Esumrest_nb_tb
+Z23 w1712101038
+R1
+R2
+R3
+Z24 8//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb_tb.vhd
+Z25 F//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb_tb.vhd
+l0
+L4
+VIJG77]h`k@R>aHLhXPWj[1
+!s100 >chHgbP^4X0B9_lWU=OV<3
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb_tb.vhd|
+Z27 !s107 //Mac/Home/Documents/CLP/Practicas/sumrest_nb/simulacion/sumrest_nb_tb.vhd|
+!i113 1
+R11
+R12
+Asumrest_nb_tb_arq
+R1
+R2
+DEx4 work 13 sumrest_nb_tb 0 22 IJG77]h`k@R>aHLhXPWj[1
+l31
+L7
+VO@6TGHP<g_:bhQDnHbmOA0
+!s100 N2Kf08JBIN;jo]O@TN`=30
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12

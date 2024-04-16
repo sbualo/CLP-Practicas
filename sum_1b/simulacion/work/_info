@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/sum_1b/fuentes
+Esum_1b
+Z0 w1712086845
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion
+Z4 8//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+Z5 F//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+l0
+L4
+VT>ClO`KeRo2n9l3>mmjzT0
+!s100 cV0KmiBCLS6<m5R7<6R:82
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1712087055
+!i10b 1
+Z8 !s108 1712087055.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+Z10 !s107 //Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum_1b_arq
+R1
+R2
+DEx4 work 6 sum_1b 0 22 T>ClO`KeRo2n9l3>mmjzT0
+l16
+L14
+VLZ9Gg=6EQRBS;HM69:2on2
+!s100 T`BM>HZ:Q^IDF`A>9Dl3L3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum_1b_tb
+Z13 w1712087052
+R1
+R2
+R3
+Z14 8//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b_tb.vhd
+Z15 F//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b_tb.vhd
+l0
+L4
+VYD9UKQQV^?:n>5o^RBQ=l1
+!s100 F3NWUJKo8LzkYTf@e6NUU3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b_tb.vhd|
+Z17 !s107 //Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b_tb.vhd|
+!i113 1
+R11
+R12
+Asum_1b_tb_arq
+R1
+R2
+Z18 DEx4 work 9 sum_1b_tb 0 22 YD9UKQQV^?:n>5o^RBQ=l1
+l25
+L7
+V3g60_LJI[hzSHm6ZicaJE2
+!s100 XP_j4@jG3h7kS>Hd3Li@Y2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

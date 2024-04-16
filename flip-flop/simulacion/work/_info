@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion
+Effd
+Z0 w1712091225
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion
+Z4 8//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd.vhd
+Z5 F//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd.vhd
+l0
+L4
+VkmV7ZRNDdf:a^C=i?alA01
+!s100 lL]JMW4XlBGT>]^?6oXGR1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1712091231
+!i10b 1
+Z8 !s108 1712091231.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd.vhd|
+Z10 !s107 //Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Affd_arq
+R1
+R2
+DEx4 work 3 ffd 0 22 kmV7ZRNDdf:a^C=i?alA01
+l16
+L14
+V[4hz9mHiAAD^P^Omz@XT`3
+!s100 IL7Q@AiXXQ;3mz52J=6XU0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Effd_tb
+Z13 w1712090943
+R1
+R2
+R3
+Z14 8//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd_tb.vhd
+Z15 F//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd_tb.vhd
+l0
+L4
+V0GB=DdSHSGo`I_F3X4_7d3
+!s100 blOfgTGfe40?9STbYbl4m0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd_tb.vhd|
+Z17 !s107 //Mac/Home/Documents/CLP/Practicas/flip-flop/simulacion/ffd_tb.vhd|
+!i113 1
+R11
+R12
+Affd_tb_arq
+R1
+R2
+Z18 DEx4 work 6 ffd_tb 0 22 0GB=DdSHSGo`I_F3X4_7d3
+l26
+L8
+Z19 V<E7mD9J5kM042[6X;Hgn]1
+Z20 !s100 odbgDV@K^DBDgBN;^Z[SN2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

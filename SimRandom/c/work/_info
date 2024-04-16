@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/SimRandom/a/b
+Egenerador_vsync
+Z0 w1712615464
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 d//Mac/Home/Documents/CLP/Practicas/SimRandom/c
+Z6 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd
+Z7 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd
+l0
+L6
+Vn^h>CQ]zJhooZ4[_;Ulf@2
+!s100 _H5oe4OEhZ_j?aCognnXQ3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1712790764
+!i10b 1
+Z10 !s108 1712790764.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd|
+Z12 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Acomportamiento
+R1
+R2
+R3
+R4
+DEx4 work 15 generador_vsync 0 22 n^h>CQ]zJhooZ4[_;Ulf@2
+l20
+L16
+VW3P;;h:Xj>R]Fmh4Uf_1`0
+!s100 3Cf17^lb`S`CWaPmm?M<G3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Egenerador_vsync_tb
+Z15 w1712790758
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z17 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_vertical_sync_tb.vhd
+Z18 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_vertical_sync_tb.vhd
+l0
+L5
+VH^=U1k8HjUB_U[5GPG78T2
+!s100 ATca8c@lBo=Xn7>YmzATc2
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_vertical_sync_tb.vhd|
+Z20 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_vertical_sync_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R16
+R3
+R4
+Z21 DEx4 work 18 generador_vsync_tb 0 22 H^=U1k8HjUB_U[5GPG78T2
+l28
+L8
+VIPefANDHomKLV3;MIMhmF2
+!s100 ?:b3Jk7k`jL0P^a::i8zX1
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14

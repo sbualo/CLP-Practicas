@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion
+Esum4b
+Z0 w1712089882
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion
+Z4 8//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b.vhd
+Z5 F//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b.vhd
+l0
+L4
+V=3U_5h<=db`g5iLJSO<Yo0
+!s100 UB0>oRofgV^PO2Q[E3cBz1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1712089890
+!i10b 1
+Z8 !s108 1712089890.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b.vhd|
+Z10 !s107 //Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum4b_arq
+R1
+R2
+DEx4 work 5 sum4b 0 22 =3U_5h<=db`g5iLJSO<Yo0
+l29
+L14
+V@oZRkI8mBT6k1SG8n9VlR0
+!s100 Cm>dG>ONIbC7UcB_UWP_c0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum4b_tb
+Z13 w1712087712
+R1
+R2
+R3
+Z14 8//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b_tb.vhd
+Z15 F//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b_tb.vhd
+l0
+L4
+V5zQ0>Q:DdAgZik[9Fe?3P3
+!s100 ?;L=X01fDD[F1JJT]n5Qz2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b_tb.vhd|
+Z17 !s107 //Mac/Home/Documents/CLP/Practicas/sum_4b/simulacion/sum_4b_tb.vhd|
+!i113 1
+R11
+R12
+Asum4b_tb_arq
+R1
+R2
+DEx4 work 8 sum4b_tb 0 22 5zQ0>Q:DdAgZik[9Fe?3P3
+l27
+L7
+V=@WXCGZZ>:<Goh546JQoc3
+!s100 UMX]533HzS?JHeXBId1;]2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Esum_1b
+Z18 w1712086845
+R1
+R2
+R3
+Z19 8//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+Z20 F//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+l0
+L4
+VT>ClO`KeRo2n9l3>mmjzT0
+!s100 cV0KmiBCLS6<m5R7<6R:82
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+Z22 !s107 //Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd|
+!i113 1
+R11
+R12
+Asum_1b_arq
+R1
+R2
+Z23 DEx4 work 6 sum_1b 0 22 T>ClO`KeRo2n9l3>mmjzT0
+l16
+L14
+Z24 VLZ9Gg=6EQRBS;HM69:2on2
+Z25 !s100 T`BM>HZ:Q^IDF`A>9Dl3L3
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12

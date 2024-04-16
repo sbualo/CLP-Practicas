@@ -1,0 +1,359 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Documents/CLP/Practicas/SimRandom/c
+Econtador_horizontal
+Z0 w1712791611
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 d//Mac/Home/Documents/CLP/Practicas/SimRandom/fintest
+Z6 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd
+Z7 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd
+l0
+L6
+V5F=SFYjUBYKSVzZ>j^VGZ3
+!s100 _TGPD:nKom45MHGz12C;93
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1712791739
+!i10b 1
+Z10 !s108 1712791739.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd|
+Z12 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Acomportamiento
+R1
+R2
+R3
+R4
+DEx4 work 19 contador_horizontal 0 22 5F=SFYjUBYKSVzZ>j^VGZ3
+l16
+L14
+V:4;1LgB5FO?0ObcN?g1zE0
+!s100 1W606iHR9KISkAcfVOlzN3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econtador_vertical
+Z15 w1712791731
+R1
+R2
+R3
+R4
+R5
+Z16 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vertical.vhd
+Z17 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vertical.vhd
+l0
+L6
+VkkO:C<PSNkiMJJ=H`aZg<2
+!s100 BCJiC=RjP0XnTJ_:I3;KR1
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vertical.vhd|
+Z19 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vertical.vhd|
+!i113 1
+R13
+R14
+Acomportamiento
+R1
+R2
+R3
+R4
+DEx4 work 17 contador_vertical 0 22 kkO:C<PSNkiMJJ=H`aZg<2
+l20
+L15
+VSZIR;n:E[`3YE`R_R<MK11
+!s100 nE14fJmDMj=e1U1[Yl59S0
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Econtrolador_vga
+Z20 w1712791634
+R1
+R2
+R3
+R4
+R5
+Z21 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd
+Z22 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd
+l0
+L6
+VchL0b83YF3ZS@hW6>Kb7Q3
+!s100 >T=nOUdYfUWncmk7b6>[f1
+R8
+32
+Z23 !s110 1712791740
+!i10b 1
+Z24 !s108 1712791740.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd|
+Z26 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd|
+!i113 1
+R13
+R14
+Amain_controler
+R1
+R2
+R3
+R4
+Z27 DEx4 work 15 controlador_vga 0 22 chL0b83YF3ZS@hW6>Kb7Q3
+l87
+L19
+VOdBB>Ygn40?4m:QAhJc>n1
+!s100 n_S29RV?ef__Ug_`WPg950
+R8
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R13
+R14
+Econtrolador_vga_tb
+Z28 w1712791230
+Z29 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+R4
+R5
+Z30 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd
+Z31 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd
+l0
+L7
+VhColITg;4>=d`O9:7fJR00
+!s100 I0FeHTl]749l9^N:]O0>01
+R8
+32
+R23
+!i10b 1
+R24
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd|
+Z33 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd|
+!i113 1
+R13
+R14
+Atb_arch
+R27
+R29
+R1
+R2
+R3
+R4
+Z34 DEx4 work 18 controlador_vga_tb 0 22 hColITg;4>=d`O9:7fJR00
+l20
+L10
+Z35 VYd7ei_Na^aF1@L@n@MkSl2
+Z36 !s100 aAibO2e2YK=PN1Bd8LK@D1
+R8
+32
+R23
+!i10b 1
+R24
+R32
+R33
+!i113 1
+R13
+R14
+Egenerador_blank
+Z37 w1712791665
+R1
+R2
+R3
+R4
+R5
+Z38 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd
+Z39 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd
+l0
+L6
+Vk0R^S3k0E56m6AaPFl:V?1
+!s100 LokdQPXz>hX`F^C]:k]2Q3
+R8
+32
+R23
+!i10b 1
+R24
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd|
+Z41 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 15 generador_blank 0 22 k0R^S3k0E56m6AaPFl:V?1
+l19
+L14
+VNOmiBAeQ]dRePZYgL?DzU3
+!s100 @eWPT@2`1hh9iaELLLDH:0
+R8
+32
+R23
+!i10b 1
+R24
+R40
+R41
+!i113 1
+R13
+R14
+Egenerador_hsync
+Z42 w1712791643
+R1
+R2
+R3
+R4
+R5
+Z43 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd
+Z44 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd
+l0
+L6
+VI_118LG3Wze;G7cQcAf9E2
+!s100 _M>7@Y5ak`KYnFfNOeBJz0
+R8
+32
+R23
+!i10b 1
+R24
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd|
+Z46 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd|
+!i113 1
+R13
+R14
+Acomportamiento
+R1
+R2
+R3
+R4
+DEx4 work 15 generador_hsync 0 22 I_118LG3Wze;G7cQcAf9E2
+l18
+L15
+VQo^`oGLAl<@Ej8Z0KBTHH3
+!s100 Xm=COKSICfJ1X>^J`F5hK3
+R8
+32
+R23
+!i10b 1
+R24
+R45
+R46
+!i113 1
+R13
+R14
+Egenerador_vsync
+Z47 w1712791657
+R1
+R2
+R3
+R4
+R5
+Z48 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd
+Z49 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd
+l0
+L6
+Vn^h>CQ]zJhooZ4[_;Ulf@2
+!s100 _H5oe4OEhZ_j?aCognnXQ3
+R8
+32
+R23
+!i10b 1
+R24
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd|
+Z51 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd|
+!i113 1
+R13
+R14
+Acomportamiento
+R1
+R2
+R3
+R4
+DEx4 work 15 generador_vsync 0 22 n^h>CQ]zJhooZ4[_;Ulf@2
+l20
+L16
+VW3P;;h:Xj>R]Fmh4Uf_1`0
+!s100 3Cf17^lb`S`CWaPmm?M<G3
+R8
+32
+R23
+!i10b 1
+R24
+R50
+R51
+!i113 1
+R13
+R14
+Eimage_generator
+Z52 w1712791671
+R29
+R1
+R2
+R3
+R4
+R5
+Z53 8//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd
+Z54 F//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd
+l0
+L6
+VVnhz^M4iKC?RdLIlzUQ9l0
+!s100 6V8lPe41>YNa^80cBdIZ13
+R8
+32
+R23
+!i10b 1
+R24
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd|
+Z56 !s107 //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R29
+R1
+R2
+R3
+R4
+DEx4 work 15 image_generator 0 22 Vnhz^M4iKC?RdLIlzUQ9l0
+l25
+L18
+VB[jP2WBWWCGnZfXkoYaHa3
+!s100 W[_Ij;];eBR3@Mj`=efI`2
+R8
+32
+R23
+!i10b 1
+R24
+R55
+R56
+!i113 1
+R13
+R14

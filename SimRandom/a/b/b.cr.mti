@@ -1,0 +1,20 @@
+//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity generador_blank
+-- Compiling architecture Behavioral of generador_blank
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_pantalla_negro_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/gen_pantalla_negro_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity generador_blank_tb
+-- Compiling architecture Behavioral of generador_blank_tb
+
+} {} {}}

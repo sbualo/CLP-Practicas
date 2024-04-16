@@ -1,0 +1,74 @@
+//Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_pantalla_negro.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity generador_blank
+-- Compiling architecture Behavioral of generador_blank
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_vga.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controlador_vga
+-- Compiling architecture main_controler of controlador_vga
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/controlador_horizontal.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contador_horizontal
+-- Compiling architecture comportamiento of contador_horizontal
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_imagenes.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity image_generator
+-- Compiling architecture Behavioral of image_generator
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_vertical_sync.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity generador_vsync
+-- Compiling architecture comportamiento of generador_vsync
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/fuentes/gen_horizontal_sync.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity generador_hsync
+-- Compiling architecture comportamiento of generador_hsync
+
+} {} {}} //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/Controlador-VGA/simulacion/controlador_vga_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity controlador_vga_tb
+-- Compiling architecture tb_arch of controlador_vga_tb
+-- Loading entity controlador_vga
+
+} {} {}}

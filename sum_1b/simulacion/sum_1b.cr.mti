@@ -1,0 +1,9 @@
+//Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Documents/CLP/Practicas/sum_1b/simulacion/sum_1b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sum_1b
+-- Compiling architecture sum_1b_arq of sum_1b
+
+} {} {}}
